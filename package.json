@@ -1,0 +1,19 @@
+{
+  "name": "@code.gov/converter",
+  "version": "0.0.0",
+  "description": "Convert publiccode.yml to code.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/code-gov-converter.git"
+  },
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/GSA/code-gov-converter/issues"
+  },
+  "homepage": "https://github.com/GSA/code-gov-converter#readme"
+}
