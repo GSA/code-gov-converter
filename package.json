@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GSA/code-gov-converter/issues"
   },
-  "homepage": "https://github.com/GSA/code-gov-converter#readme"
+  "homepage": "https://github.com/GSA/code-gov-converter#readme",
+  "dependencies": {
+    "yaml": "^1.0.2"
+  }
 }
